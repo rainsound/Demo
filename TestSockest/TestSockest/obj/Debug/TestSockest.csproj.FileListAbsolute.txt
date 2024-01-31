@@ -1,0 +1,7 @@
+F:\CodeProject\TestSockest\TestSockest\bin\Debug\TestSockest.exe.config
+F:\CodeProject\TestSockest\TestSockest\bin\Debug\TestSockest.exe
+F:\CodeProject\TestSockest\TestSockest\bin\Debug\TestSockest.pdb
+F:\CodeProject\TestSockest\TestSockest\obj\Debug\TestSockest.csprojAssemblyReference.cache
+F:\CodeProject\TestSockest\TestSockest\obj\Debug\TestSockest.csproj.CoreCompileInputs.cache
+F:\CodeProject\TestSockest\TestSockest\obj\Debug\TestSockest.exe
+F:\CodeProject\TestSockest\TestSockest\obj\Debug\TestSockest.pdb
